@@ -4,4 +4,8 @@ WattDr is a free utility for comparing bike power meters. It can connect to mult
 
 The code for reading power meter will be open sourced so that others can use it and improve it.
 
+<b>Data Export</b>
+
+WattDr extends Garmin's TCX format with additional attributes to track multiple power meters and precise timestamps. Currently, the export supports JSON format. Other formats might be added in the future if enough people find it desirable. You should be able to load the JSON data with generic JSON parsers in Java, C# and Swift.
+
 If you find a bug, please file a new issue. Thank you.
