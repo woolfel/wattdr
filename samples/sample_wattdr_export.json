@@ -1,0 +1,1102 @@
+{
+  "primaryID" : "B556B7B8-5E3D-4954-9168-CED515519402",
+  "activities" : {
+    "activity" : [
+      {
+        "extensions" : null,
+        "creator" : null,
+        "id" : "2017-07-25T16:57:43-0400",
+        "sport" : null,
+        "lap" : [
+          {
+            "distanceMeters" : 654.48,
+            "totalTimeSeconds" : 30.30226397514343,
+            "maximumSpeed" : 20,
+            "track" : [
+              {
+                "trackpoint" : [
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 113
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501016263.37085,
+                    "time" : "2017-07-25T16:57:43.043-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016264.00365,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016264.209725,
+                          "runCadence" : 0,
+                          "watts" : 118
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 113
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501016264.00365,
+                    "time" : "2017-07-25T16:57:44.044-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016264.953009,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016265.064737,
+                          "runCadence" : 0,
+                          "watts" : 122
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 113
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501016264.953009,
+                    "time" : "2017-07-25T16:57:44.044-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.500848896434635,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016266.473159,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.500848896434635,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016266.853397,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.500848896434635,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016266.038375,
+                          "runCadence" : 0,
+                          "watts" : 122
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.500848896434635,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016266.988373,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 114
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 5.500848896434635,
+                    "timestamp" : 1501016266.038375,
+                    "time" : "2017-07-25T16:57:46.046-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.779615665288252,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016268.183483,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.779615665288252,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016268.000904,
+                          "runCadence" : 0,
+                          "watts" : 122
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 115
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 5.779615665288252,
+                    "timestamp" : 1501016268.000904,
+                    "time" : "2017-07-25T16:57:48.048-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.966850828729282,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016268.943548,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.966850828729282,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016268.950701,
+                          "runCadence" : 0,
+                          "watts" : 125
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 115
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 5.966850828729282,
+                    "timestamp" : 1501016268.943548,
+                    "time" : "2017-07-25T16:57:48.048-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.061739943872779,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016269.893468,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.061739943872779,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016269.900867,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 116
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.061739943872779,
+                    "timestamp" : 1501016269.893468,
+                    "time" : "2017-07-25T16:57:49.049-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.075949367088608,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016270.843436,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.075949367088608,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016270.851795,
+                          "runCadence" : 0,
+                          "watts" : 129
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 116
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.075949367088608,
+                    "timestamp" : 1501016270.843436,
+                    "time" : "2017-07-25T16:57:50.050-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016271.983361,
+                          "runCadence" : 0,
+                          "watts" : 115
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016271.800539,
+                          "runCadence" : 0,
+                          "watts" : 133
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 116
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.118980169971672,
+                    "timestamp" : 1501016271.800539,
+                    "time" : "2017-07-25T16:57:51.051-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.200956937799044,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016272.933466,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.200956937799044,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016272.750534,
+                          "runCadence" : 0,
+                          "watts" : 135
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 117
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.200956937799044,
+                    "timestamp" : 1501016272.750534,
+                    "time" : "2017-07-25T16:57:52.052-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.200956937799044,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016273.88346,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.200956937799044,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016274.271378,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 117
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.200956937799044,
+                    "timestamp" : 1501016273.88346,
+                    "time" : "2017-07-25T16:57:53.053-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016274.833507,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016274.840904,
+                          "runCadence" : 0,
+                          "watts" : 129
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 117
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.171428571428572,
+                    "timestamp" : 1501016274.833507,
+                    "time" : "2017-07-25T16:57:54.054-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.159695817490494,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016276.163429,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.159695817490494,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016275.791027,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 118
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.159695817490494,
+                    "timestamp" : 1501016275.791027,
+                    "time" : "2017-07-25T16:57:55.055-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016276.923519,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016276.741042,
+                          "runCadence" : 0,
+                          "watts" : 124
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 119
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.171428571428572,
+                    "timestamp" : 1501016276.741042,
+                    "time" : "2017-07-25T16:57:56.056-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.165556612749763,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016277.87314,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.165556612749763,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016277.690964,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 119
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.165556612749763,
+                    "timestamp" : 1501016277.690964,
+                    "time" : "2017-07-25T16:57:57.057-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.165556612749763,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016278.823582,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.165556612749763,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016278.640973,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.165556612749763,
+                    "timestamp" : 1501016278.640973,
+                    "time" : "2017-07-25T16:57:58.058-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.159695817490494,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016279.963134,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.159695817490494,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016279.590698,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 120
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.159695817490494,
+                    "timestamp" : 1501016279.590698,
+                    "time" : "2017-07-25T16:57:59.059-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.153846153846154,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016280.913483,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.153846153846154,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016280.54166,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.153846153846154,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016281.491087,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 120
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.153846153846154,
+                    "timestamp" : 1501016280.54166,
+                    "time" : "2017-07-25T16:58:00.000-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016281.863501,
+                          "runCadence" : 0,
+                          "watts" : 110
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016282.441037,
+                          "runCadence" : 0,
+                          "watts" : 129
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.171428571428572,
+                    "timestamp" : 1501016281.863501,
+                    "time" : "2017-07-25T16:58:01.001-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.177311725452813,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016283.003528,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.177311725452813,
+                    "timestamp" : 1501016283.003528,
+                    "time" : "2017-07-25T16:58:03.003-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016284.143664,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016283.580664,
+                          "runCadence" : 0,
+                          "watts" : 126
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501016283.580664,
+                    "time" : "2017-07-25T16:58:03.003-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.197991391678623,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016284.90312,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.197991391678623,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016284.530962,
+                          "runCadence" : 0,
+                          "watts" : 129
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.197991391678623,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016285.481191,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.197991391678623,
+                    "timestamp" : 1501016284.530962,
+                    "time" : "2017-07-25T16:58:04.004-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.177311725452813,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016285.853502,
+                          "runCadence" : 0,
+                          "watts" : 102
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.177311725452813,
+                    "timestamp" : 1501016285.853502,
+                    "time" : "2017-07-25T16:58:05.005-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016286.993448,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016286.621306,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016287.381642,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.171428571428572,
+                    "timestamp" : 1501016286.621306,
+                    "time" : "2017-07-25T16:58:06.006-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.12476370510397,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016287.943601,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.12476370510397,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016288.331017,
+                          "runCadence" : 0,
+                          "watts" : 125
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.12476370510397,
+                    "timestamp" : 1501016287.943601,
+                    "time" : "2017-07-25T16:58:07.007-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016288.893605,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016289.471182,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 121
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501016288.893605,
+                    "time" : "2017-07-25T16:58:08.008-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016289.843593,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016290.231222,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 41
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.118980169971672,
+                    "timestamp" : 1501016289.843593,
+                    "time" : "2017-07-25T16:58:09.009-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016290.983653,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.118980169971672,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016291.18111,
+                          "runCadence" : 0,
+                          "watts" : 127
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 122
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.118980169971672,
+                    "timestamp" : 1501016290.983653,
+                    "time" : "2017-07-25T16:58:10.010-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.12476370510397,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016291.933652,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.12476370510397,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016292.321046,
+                          "runCadence" : 0,
+                          "watts" : 127
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 122
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.12476370510397,
+                    "timestamp" : 1501016291.933652,
+                    "time" : "2017-07-25T16:58:11.011-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501016292.883657,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.171428571428572,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501016293.270714,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : {
+                      "value" : 122
+                    },
+                    "sensorState" : "Present",
+                    "speed" : 6.171428571428572,
+                    "timestamp" : 1501016292.883657,
+                    "time" : "2017-07-25T16:58:12.012-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  }
+                ]
+              }
+            ],
+            "averagePowerWatts" : 107,
+            "averageHeartRateBpm" : {
+              "value" : 115
+            },
+            "cadence" : null,
+            "calories" : null,
+            "maximumHeartRateBpm" : {
+              "value" : 122
+            },
+            "extensions" : null,
+            "intensity" : null,
+            "startTime" : "2017-07-25T16:57:43-0400",
+            "triggerMethod" : "Manual",
+            "notes" : null
+          }
+        ],
+        "notes" : null
+      }
+    ],
+    "multiSportSession" : [
+
+    ]
+  },
+  "workouts" : null,
+  "folders" : null
+}
