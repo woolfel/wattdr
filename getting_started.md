@@ -21,7 +21,7 @@ If you're new to iOS Apps or bicycle power meters, here is a quick tutorial. Fir
 6. Tap on the workout tab and start pedaling. It will show the current and average power.
 <p><img src="./images/4_workout.PNG" width="320" height="568"></p>
 
-7. To begin recording, tap Start button. After it starts record, the start button will change to pause.
+7. To begin recording, tap Start button. After it starts, the start button will change to pause.
 <p><img src="./images/4b_active_workout.PNG" width="320" height="568"></p>
 
 8. To end recording, tap done. It will save the workout session.
