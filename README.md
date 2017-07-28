@@ -13,3 +13,8 @@ If you find a bug, please file a new issue. Thank you.
 ## Observations
 
 Depending on the type of power meter, you will get different power readings. In general, pedal based power meters "may" register higher watt values than crank arm meters. Hub meters and smart trainers that do not use direct drive will have lower watt readings. To dive deeper into the complex topic of power meters, I recommend reading DC Rainmaker https://www.dcrainmaker.com/
+
+<img src="./images/comparison_1.png">
+<p>
+<img src="./images/comparison_2.png">
+<p>
