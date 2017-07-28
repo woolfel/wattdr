@@ -8,14 +8,14 @@ If you're new to iOS Apps or bicycle power meters, here is a quick tutorial. Fir
 - https://4iiii-innovations.myshopify.com/collections/power-meters
 
 1. After you download WattDr, start the app
-		<img src="./images/1_devices.PNG" width="320" height="568">
+<p><img src="./images/1_devices.PNG" width="320" height="568"></p>
 
 2. Tap the + button to pair a device.
-		<img src="./images/2_add_devices.PNG" width="320" height="568">
+<p><img src="./images/2_add_devices.PNG" width="320" height="568"></p>
 
 3. Select Power Meter to pair a new power meter.
 4. When it detects the power meter, it will ask you to add or cancel.
-		<img src="./images/3_device_found.PNG" width="320" height="568">
+<p><img src="./images/3_device_found.PNG" width="320" height="568"></p>
 
 5. Tap Add to add the device. Repeat the process to add more power meters. You can add as many as you like.
 6. Tap on the workout tab and start pedaling. It will show the current and average power.
