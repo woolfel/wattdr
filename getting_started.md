@@ -19,27 +19,27 @@ If you're new to iOS Apps or bicycle power meters, here is a quick tutorial. Fir
 
 5. Tap Add to add the device. Repeat the process to add more power meters. You can add as many as you like.
 6. Tap on the workout tab and start pedaling. It will show the current and average power.
-		<img src="./images/4_workout.PNG" width="320" height="568">
+<p><img src="./images/4_workout.PNG" width="320" height="568"></p>
 
 7. To begin recording, tap Start button. After it starts record, the start button will change to pause.
-		<img src="./images/4b_active_workout.PNG" width="320" height="568">
+<p><img src="./images/4b_active_workout.PNG" width="320" height="568"></p>
 
 8. To end recording, tap done. It will save the workout session.
 9. Tap activities to view the saved workout sessions.
-		<img src="./images/4c_activities.PNG" width="320" height="568">
+<p><img src="./images/4c_activities.PNG" width="320" height="568"></p>
 
 10. Tap a row to email an export of the workout in JSON format. If you are not familiar with JSON format, please read the description on Wikipedia {https://en.wikipedia.org/wiki/JSON}
-		<img src="./images/4d_activity_info.PNG" width="320" height="568">
+<p><img src="./images/4d_activity_info.PNG" width="320" height="568"></p>
 
 ## Settings
 WattDr can display the information in Imperial or Metric. To change the settings, tap on More and select display.
 
-		<img src="./images/6_display_settings.PNG" width="320" height="568">
+<p><img src="./images/6_display_settings.PNG" width="320" height="568"></p>
 
 If you want to show the Watts/Kilogram, edit the profile and enter your weight in Kilograms.
 
-		<img src="./images/5_edit_profile.PNG" width="320" height="568">
+<p><img src="./images/5_edit_profile.PNG" width="320" height="568"></p>
 
 To view the list of saved devices, go to more and saved devices
 
-		<img src="./images/7_saved_devices.PNG" width="320" height="568">
+<p><img src="./images/7_saved_devices.PNG" width="320" height="568"></p>
