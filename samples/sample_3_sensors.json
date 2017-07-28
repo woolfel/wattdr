@@ -1,0 +1,2619 @@
+{
+  "primaryID" : "CB11BA41-0023-42F7-8C06-3C0992C74146",
+  "activities" : {
+    "activity" : [
+      {
+        "extensions" : null,
+        "creator" : null,
+        "id" : "2017-07-28T09:18:29-0400",
+        "sport" : null,
+        "lap" : [
+          {
+            "distanceMeters" : 1561.68,
+            "totalTimeSeconds" : 59.22177702188492,
+            "maximumSpeed" : 0,
+            "track" : [
+              {
+                "trackpoint" : [
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.406758448060075,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247909.239853,
+                          "runCadence" : 0,
+                          "watts" : 90
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.406758448060075,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247910.320226,
+                          "runCadence" : 0,
+                          "watts" : 85
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.406758448060075,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247909.449601,
+                          "runCadence" : 0,
+                          "watts" : 69
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.406758448060075,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247909.989851,
+                          "runCadence" : 0,
+                          "watts" : 134
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.406758448060075,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247910.042945,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.406758448060075,
+                    "timestamp" : 1501247909.135059,
+                    "time" : "2017-07-28T09:18:29.029-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.4,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247911.220299,
+                          "runCadence" : 0,
+                          "watts" : 87
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.4,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247910.889658,
+                          "runCadence" : 0,
+                          "watts" : 135
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.4,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247910.942421,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.4,
+                    "timestamp" : 1501247910.889658,
+                    "time" : "2017-07-28T09:18:30.030-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.42713567839196,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247912.120204,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.42713567839196,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247911.969687,
+                          "runCadence" : 0,
+                          "watts" : 132
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.42713567839196,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247912.02238,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.42713567839196,
+                    "timestamp" : 1501247911.969687,
+                    "time" : "2017-07-28T09:18:31.031-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.510204081632653,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247913.200475,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.510204081632653,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247912.87053,
+                          "runCadence" : 0,
+                          "watts" : 138
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.510204081632653,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247912.922639,
+                          "runCadence" : 0,
+                          "watts" : 104
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.510204081632653,
+                    "timestamp" : 1501247912.87053,
+                    "time" : "2017-07-28T09:18:32.032-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.576592082616179,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247914.280376,
+                          "runCadence" : 0,
+                          "watts" : 93
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.576592082616179,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247913.949788,
+                          "runCadence" : 0,
+                          "watts" : 132
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.576592082616179,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247914.003313,
+                          "runCadence" : 0,
+                          "watts" : 104
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.576592082616179,
+                    "timestamp" : 1501247913.949788,
+                    "time" : "2017-07-28T09:18:33.033-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.545571245186136,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247915.180477,
+                          "runCadence" : 0,
+                          "watts" : 97
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.545571245186136,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247914.850542,
+                          "runCadence" : 0,
+                          "watts" : 134
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.545571245186136,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247914.90267,
+                          "runCadence" : 0,
+                          "watts" : 102
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.545571245186136,
+                    "timestamp" : 1501247914.850542,
+                    "time" : "2017-07-28T09:18:34.034-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.659388646288209,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247916.260327,
+                          "runCadence" : 0,
+                          "watts" : 97
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.659388646288209,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247915.930067,
+                          "runCadence" : 0,
+                          "watts" : 144
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.659388646288209,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247915.802214,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.659388646288209,
+                    "timestamp" : 1501247915.802214,
+                    "time" : "2017-07-28T09:18:35.035-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.669291338582678,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247917.160624,
+                          "runCadence" : 0,
+                          "watts" : 96
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.669291338582678,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247917.009999,
+                          "runCadence" : 0,
+                          "watts" : 134
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.669291338582678,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247916.883409,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.669291338582678,
+                    "timestamp" : 1501247916.883409,
+                    "time" : "2017-07-28T09:18:36.036-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.639686684073108,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247918.240489,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.639686684073108,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247917.909962,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.639686684073108,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247917.78291,
+                          "runCadence" : 0,
+                          "watts" : 102
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.639686684073108,
+                    "timestamp" : 1501247917.78291,
+                    "time" : "2017-07-28T09:18:37.037-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.644599303135888,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247919.320455,
+                          "runCadence" : 0,
+                          "watts" : 96
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.644599303135888,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247918.99077,
+                          "runCadence" : 0,
+                          "watts" : 127
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.644599303135888,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247918.862314,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.644599303135888,
+                    "timestamp" : 1501247918.862314,
+                    "time" : "2017-07-28T09:18:38.038-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247920.22036,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247919.709834,
+                          "runCadence" : 0,
+                          "watts" : 66
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247919.890666,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247919.762802,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.689201053555751,
+                    "timestamp" : 1501247919.709834,
+                    "time" : "2017-07-28T09:18:39.039-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.676741130091984,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247921.120481,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.676741130091984,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247920.970138,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.676741130091984,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247920.842469,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.676741130091984,
+                    "timestamp" : 1501247920.842469,
+                    "time" : "2017-07-28T09:18:40.040-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247922.200526,
+                          "runCadence" : 0,
+                          "watts" : 96
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247921.870047,
+                          "runCadence" : 0,
+                          "watts" : 131
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247921.742423,
+                          "runCadence" : 0,
+                          "watts" : 100
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501247921.742423,
+                    "time" : "2017-07-28T09:18:41.041-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.684210526315789,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247923.280386,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.684210526315789,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247922.950626,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.684210526315789,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247922.642256,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.684210526315789,
+                    "timestamp" : 1501247922.642256,
+                    "time" : "2017-07-28T09:18:42.042-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247924.180507,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247923.669757,
+                          "runCadence" : 0,
+                          "watts" : 69
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247923.850653,
+                          "runCadence" : 0,
+                          "watts" : 129
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.689201053555751,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247923.722502,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.689201053555751,
+                    "timestamp" : 1501247923.669757,
+                    "time" : "2017-07-28T09:18:43.043-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.714285714285714,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247925.260385,
+                          "runCadence" : 0,
+                          "watts" : 95
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.714285714285714,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247924.930704,
+                          "runCadence" : 0,
+                          "watts" : 127
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.714285714285714,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247924.622445,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.714285714285714,
+                    "timestamp" : 1501247924.622445,
+                    "time" : "2017-07-28T09:18:44.044-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.706737120211361,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247926.160116,
+                          "runCadence" : 0,
+                          "watts" : 96
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.706737120211361,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247925.829947,
+                          "runCadence" : 0,
+                          "watts" : 125
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.706737120211361,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247925.702273,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.706737120211361,
+                    "timestamp" : 1501247925.702273,
+                    "time" : "2017-07-28T09:18:45.045-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.694200351493849,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247927.240426,
+                          "runCadence" : 0,
+                          "watts" : 100
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.694200351493849,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247926.91076,
+                          "runCadence" : 0,
+                          "watts" : 130
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.694200351493849,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247926.602562,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.694200351493849,
+                    "timestamp" : 1501247926.602562,
+                    "time" : "2017-07-28T09:18:46.046-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.709251101321586,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247928.320318,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.709251101321586,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247927.990037,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.709251101321586,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247927.502363,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.709251101321586,
+                    "timestamp" : 1501247927.502363,
+                    "time" : "2017-07-28T09:18:47.047-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.691699604743083,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247929.220483,
+                          "runCadence" : 0,
+                          "watts" : 102
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.691699604743083,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247928.890668,
+                          "runCadence" : 0,
+                          "watts" : 140
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.691699604743083,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247928.582473,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.691699604743083,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247929.482284,
+                          "runCadence" : 0,
+                          "watts" : 120
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.691699604743083,
+                    "timestamp" : 1501247928.582473,
+                    "time" : "2017-07-28T09:18:48.048-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.79088471849866,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247930.120274,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.79088471849866,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247929.970213,
+                          "runCadence" : 0,
+                          "watts" : 128
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.79088471849866,
+                    "timestamp" : 1501247929.925046,
+                    "time" : "2017-07-28T09:18:49.049-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.853658536585367,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247931.20047,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.853658536585367,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247930.870349,
+                          "runCadence" : 0,
+                          "watts" : 125
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.853658536585367,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247930.562286,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.853658536585367,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247931.462271,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.853658536585367,
+                    "timestamp" : 1501247930.562286,
+                    "time" : "2017-07-28T09:18:50.050-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.822102425876011,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247932.280447,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.822102425876011,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247931.95001,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.822102425876011,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247932.362434,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.822102425876011,
+                    "timestamp" : 1501247931.904839,
+                    "time" : "2017-07-28T09:18:51.051-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.845737483085251,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247933.180431,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.845737483085251,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247932.850059,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.845737483085251,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247933.442302,
+                          "runCadence" : 0,
+                          "watts" : 110
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.845737483085251,
+                    "timestamp" : 1501247932.850059,
+                    "time" : "2017-07-28T09:18:52.052-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.801253357206805,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247934.260024,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.801253357206805,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247933.930574,
+                          "runCadence" : 0,
+                          "watts" : 123
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.801253357206805,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247934.342444,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.801253357206805,
+                    "timestamp" : 1501247933.885156,
+                    "time" : "2017-07-28T09:18:53.053-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.775401069518717,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247935.160494,
+                          "runCadence" : 0,
+                          "watts" : 100
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.775401069518717,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247934.82977,
+                          "runCadence" : 0,
+                          "watts" : 118
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.775401069518717,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247935.4223,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.775401069518717,
+                    "timestamp" : 1501247934.82977,
+                    "time" : "2017-07-28T09:18:54.054-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247936.240488,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247935.910032,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247935.916306,
+                          "runCadence" : 0,
+                          "watts" : 68
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247936.322502,
+                          "runCadence" : 0,
+                          "watts" : 110
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.806451612903226,
+                    "timestamp" : 1501247935.86494,
+                    "time" : "2017-07-28T09:18:55.055-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247937.320658,
+                          "runCadence" : 0,
+                          "watts" : 104
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247936.810709,
+                          "runCadence" : 0,
+                          "watts" : 123
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.806451612903226,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247937.222367,
+                          "runCadence" : 0,
+                          "watts" : 118
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.806451612903226,
+                    "timestamp" : 1501247936.810709,
+                    "time" : "2017-07-28T09:18:56.056-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.837837837837838,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247938.220154,
+                          "runCadence" : 0,
+                          "watts" : 99
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.837837837837838,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247937.890188,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.837837837837838,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247938.070053,
+                          "runCadence" : 0,
+                          "watts" : 70
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.837837837837838,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247938.302433,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.837837837837838,
+                    "timestamp" : 1501247937.845292,
+                    "time" : "2017-07-28T09:18:57.057-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.912408759124087,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247939.120071,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.912408759124087,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247938.97009,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.912408759124087,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247939.202302,
+                          "runCadence" : 0,
+                          "watts" : 117
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.912408759124087,
+                    "timestamp" : 1501247938.835293,
+                    "time" : "2017-07-28T09:18:58.058-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.874886672710789,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247940.200447,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.874886672710789,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247939.871091,
+                          "runCadence" : 0,
+                          "watts" : 123
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.874886672710789,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247940.282515,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.874886672710789,
+                    "timestamp" : 1501247939.825099,
+                    "time" : "2017-07-28T09:18:59.059-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.917808219178083,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247941.280019,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.917808219178083,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247940.949828,
+                          "runCadence" : 0,
+                          "watts" : 127
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.917808219178083,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247941.181909,
+                          "runCadence" : 0,
+                          "watts" : 117
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.917808219178083,
+                    "timestamp" : 1501247940.814976,
+                    "time" : "2017-07-28T09:19:00.000-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247942.180461,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247941.850235,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247942.210724,
+                          "runCadence" : 0,
+                          "watts" : 69
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247942.262452,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.983379501385042,
+                    "timestamp" : 1501247941.804957,
+                    "time" : "2017-07-28T09:19:01.001-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.966850828729282,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247943.260492,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.966850828729282,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247942.930126,
+                          "runCadence" : 0,
+                          "watts" : 120
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.966850828729282,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247943.162827,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.966850828729282,
+                    "timestamp" : 1501247942.795416,
+                    "time" : "2017-07-28T09:19:02.002-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.928636779505948,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247944.160486,
+                          "runCadence" : 0,
+                          "watts" : 104
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.928636779505948,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247943.829984,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.928636779505948,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247944.062502,
+                          "runCadence" : 0,
+                          "watts" : 117
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.928636779505948,
+                    "timestamp" : 1501247943.78498,
+                    "time" : "2017-07-28T09:19:03.003-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247945.240585,
+                          "runCadence" : 0,
+                          "watts" : 104
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247944.91086,
+                          "runCadence" : 0,
+                          "watts" : 118
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.983379501385042,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247945.142583,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.983379501385042,
+                    "timestamp" : 1501247944.775026,
+                    "time" : "2017-07-28T09:19:04.004-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247946.320523,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247945.80998,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247946.042371,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.977859778597786,
+                    "timestamp" : 1501247945.765086,
+                    "time" : "2017-07-28T09:19:05.005-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.972350230414747,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247947.220716,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.972350230414747,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247946.891039,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.972350230414747,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247947.122686,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.972350230414747,
+                    "timestamp" : 1501247946.75524,
+                    "time" : "2017-07-28T09:19:06.006-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.958620689655173,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247948.120611,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.958620689655173,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247947.970245,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.958620689655173,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247948.329797,
+                          "runCadence" : 0,
+                          "watts" : 70
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.958620689655173,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247948.022516,
+                          "runCadence" : 0,
+                          "watts" : 118
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.958620689655173,
+                    "timestamp" : 1501247947.745102,
+                    "time" : "2017-07-28T09:19:07.007-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.994449583718779,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247949.200594,
+                          "runCadence" : 0,
+                          "watts" : 98
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.994449583718779,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247948.870032,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.994449583718779,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247948.922541,
+                          "runCadence" : 0,
+                          "watts" : 115
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.994449583718779,
+                    "timestamp" : 1501247948.735289,
+                    "time" : "2017-07-28T09:19:08.008-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247950.280646,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247949.949909,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247950.002439,
+                          "runCadence" : 0,
+                          "watts" : 121
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.016713091922006,
+                    "timestamp" : 1501247949.725027,
+                    "time" : "2017-07-28T09:19:09.009-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247951.180598,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247950.850152,
+                          "runCadence" : 0,
+                          "watts" : 120
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247950.902538,
+                          "runCadence" : 0,
+                          "watts" : 122
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.01113172541744,
+                    "timestamp" : 1501247950.715307,
+                    "time" : "2017-07-28T09:19:10.010-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.022304832713755,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247952.26056,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.022304832713755,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247951.930417,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.022304832713755,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247951.982645,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.022304832713755,
+                    "timestamp" : 1501247951.705243,
+                    "time" : "2017-07-28T09:19:11.011-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247953.160524,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247952.83055,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.01113172541744,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247952.88262,
+                          "runCadence" : 0,
+                          "watts" : 116
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.01113172541744,
+                    "timestamp" : 1501247952.695382,
+                    "time" : "2017-07-28T09:19:12.012-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247954.240621,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247953.910158,
+                          "runCadence" : 0,
+                          "watts" : 115
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247953.782714,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.03914259086673,
+                    "timestamp" : 1501247953.685083,
+                    "time" : "2017-07-28T09:19:13.013-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.025104602510461,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247955.320761,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.025104602510461,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247954.809722,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.025104602510461,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247954.86229,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.025104602510461,
+                    "timestamp" : 1501247954.675336,
+                    "time" : "2017-07-28T09:19:14.014-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247956.220769,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247955.890421,
+                          "runCadence" : 0,
+                          "watts" : 110
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247956.430092,
+                          "runCadence" : 0,
+                          "watts" : 69
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247955.762466,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.033519553072626,
+                    "timestamp" : 1501247955.66514,
+                    "time" : "2017-07-28T09:19:15.015-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247957.120753,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247956.790838,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247956.842647,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.03914259086673,
+                    "timestamp" : 1501247956.655884,
+                    "time" : "2017-07-28T09:19:16.016-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247958.200596,
+                          "runCadence" : 0,
+                          "watts" : 102
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247957.870155,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 0,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247957.742669,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 0,
+                    "timestamp" : 1501247957.645277,
+                    "time" : "2017-07-28T09:19:17.017-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247959.280651,
+                          "runCadence" : 0,
+                          "watts" : 103
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247958.950153,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247958.82284,
+                          "runCadence" : 0,
+                          "watts" : 113
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.027906976744187,
+                    "timestamp" : 1501247958.635509,
+                    "time" : "2017-07-28T09:19:18.018-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247960.18069,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247959.850284,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247959.72251,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.05607476635514,
+                    "timestamp" : 1501247959.625261,
+                    "time" : "2017-07-28T09:19:19.019-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247961.260614,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247960.930073,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.027906976744187,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247960.622575,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.027906976744187,
+                    "timestamp" : 1501247960.615785,
+                    "time" : "2017-07-28T09:19:20.020-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247962.160284,
+                          "runCadence" : 0,
+                          "watts" : 106
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247961.830876,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.033519553072626,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247961.702678,
+                          "runCadence" : 0,
+                          "watts" : 114
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.033519553072626,
+                    "timestamp" : 1501247961.605402,
+                    "time" : "2017-07-28T09:19:21.021-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247963.240509,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247962.910256,
+                          "runCadence" : 0,
+                          "watts" : 109
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.016713091922006,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247962.602562,
+                          "runCadence" : 0,
+                          "watts" : 119
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.016713091922006,
+                    "timestamp" : 1501247962.59515,
+                    "time" : "2017-07-28T09:19:22.022-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247964.320559,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247963.810169,
+                          "runCadence" : 0,
+                          "watts" : 111
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 5.977859778597786,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247963.682511,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 5.977859778597786,
+                    "timestamp" : 1501247963.58517,
+                    "time" : "2017-07-28T09:19:23.023-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247965.220618,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247964.710921,
+                          "runCadence" : 0,
+                          "watts" : 70
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247964.890272,
+                          "runCadence" : 0,
+                          "watts" : 108
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247964.762692,
+                          "runCadence" : 0,
+                          "watts" : 112
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.05607476635514,
+                    "timestamp" : 1501247964.575588,
+                    "time" : "2017-07-28T09:19:24.024-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247966.120539,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247965.790187,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.05607476635514,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247965.66252,
+                          "runCadence" : 0,
+                          "watts" : 105
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.05607476635514,
+                    "timestamp" : 1501247965.565217,
+                    "time" : "2017-07-28T09:19:25.025-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Magnus 02051",
+                          "timestamp" : 1501247967.20072,
+                          "runCadence" : 0,
+                          "watts" : 107
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247966.716661,
+                          "runCadence" : 0,
+                          "watts" : 69
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247966.869927,
+                          "runCadence" : 0,
+                          "watts" : 117
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247966.742661,
+                          "runCadence" : 0,
+                          "watts" : 101
+                        },
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.03914259086673,
+                          "powerMeterName" : "Stages 42764",
+                          "timestamp" : 1501247967.462854,
+                          "runCadence" : 0,
+                          "watts" : 115
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.03914259086673,
+                    "timestamp" : 1501247966.555623,
+                    "time" : "2017-07-28T09:19:26.026-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  },
+                  {
+                    "position" : null,
+                    "altitudeMeters" : 0,
+                    "extensions" : {
+                      "any" : [
+                        {
+                          "extensions" : null,
+                          "cadenceSensor" : "Bike",
+                          "speed" : 6.061739943872779,
+                          "powerMeterName" : "powertap P1.S",
+                          "timestamp" : 1501247967.950341,
+                          "runCadence" : 0,
+                          "watts" : 110
+                        }
+                      ]
+                    },
+                    "heartRateBpm" : null,
+                    "sensorState" : "Present",
+                    "speed" : 6.061739943872779,
+                    "timestamp" : 1501247967.547491,
+                    "time" : "2017-07-28T09:19:27.027-0400",
+                    "cadence" : 0,
+                    "distanceMeters" : 0
+                  }
+                ]
+              }
+            ],
+            "averagePowerWatts" : 113,
+            "averageHeartRateBpm" : null,
+            "cadence" : null,
+            "calories" : null,
+            "maximumHeartRateBpm" : null,
+            "extensions" : null,
+            "intensity" : null,
+            "startTime" : "2017-07-28T09:18:29-0400",
+            "triggerMethod" : "Manual",
+            "notes" : null
+          }
+        ],
+        "notes" : null
+      }
+    ],
+    "multiSportSession" : [
+
+    ]
+  },
+  "workouts" : null,
+  "folders" : null
+}
