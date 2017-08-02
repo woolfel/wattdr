@@ -13,8 +13,10 @@ If you find a bug, please file a new issue. Thank you.
 ## Bluetooth Specification Links
 
 [Bluetooth services] (https://www.bluetooth.com/specifications/gatt/services)
-[Cycling Power](https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.service.cycling_power.xml)
-[Power Measurement](https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.characteristic.cycling_power_measurement.xml)
+
+[Cycling Power] (https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.service.cycling_power.xml)
+
+[Power Measurement] (https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.characteristic.cycling_power_measurement.xml)
 
 ## Observations
 
