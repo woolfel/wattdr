@@ -10,6 +10,12 @@ WattDr extends Garmin's TCX format with additional attributes to track multiple 
 
 If you find a bug, please file a new issue. Thank you.
 
+## Bluetooth Specification Links
+
+https://www.bluetooth.com/specifications/gatt/services
+https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.service.cycling_power.xml - cycling power
+https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.characteristic.cycling_power_measurement.xml - power measurement
+
 ## Observations
 
 Depending on the type of power meter, you will get different power readings. In general, pedal based power meters "may" register higher watt values than crank arm meters. Hub meters and smart trainers that do not use direct drive will have lower watt readings. To dive deeper into the complex topic of power meters, I recommend reading DC Rainmaker https://www.dcrainmaker.com/
