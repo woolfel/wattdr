@@ -18,6 +18,13 @@ If you find a bug, please file a new issue. Thank you.
 
 [Power Measurement] (https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.characteristic.cycling_power_measurement.xml)
 
+## Future Features
+
+Here's the list of features I like to add in the future. No dates on when they will be ready.
+
+- graph of the power
+- graph of the delta between power meters
+
 ## Observations
 
 Depending on the type of power meter, you will get different power readings. In general, pedal based power meters "may" register higher watt values than crank arm meters. Hub meters and smart trainers that do not use direct drive will have lower watt readings. To dive deeper into the complex topic of power meters, I recommend reading DC Rainmaker https://www.dcrainmaker.com/
