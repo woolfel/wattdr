@@ -534,12 +534,14 @@ class PeripheralManager: NSObject, CBCentralManagerDelegate, CBPeripheralDelegat
         }
         self.previousRevolutionCount = currentRev;
         self.previousWheelEvent = currentEvent;
-        if speed > 0.0 {
+        // sometimes the speed sensor can give crazy readings
+        // we filter that out by having the max be 40 mps, which is 90mph
+        if speed > 0.0 && speed < 40.00 {
             self.currentSpeedMetersPerSec = speed;
         } else {
             self.currentSpeedMetersPerSec = 0.0;
         }
-        return speed;
+        return self.currentSpeedMetersPerSec;
     }
     
     func calculateCrankRPM(_ currentRev:UInt16, currentEvent:Double) -> Int16 {
