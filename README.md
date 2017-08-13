@@ -29,6 +29,10 @@ Here's the list of features I like to add in the future. No dates on when they w
 
 Sometimes Wahoo speed sensors sends odd values, which produces inaccurate speed readings. The peripheral manager tries to handle this by filtering out readings that are higher than 40 meters/second. 40 meters/second translates to 90mph. For most cases, 90mph is crazy fast. The primary focus of the app is power meters, so speed isn't super critical.
 
+## FIT Support
+
+At this time, there isn't a good solution for Garmin FIT format. The official libraries provided by ANT group is C/C++, C# and Java. Although I could port the Java version over to Swift, that's not practical. The data format changes frequently and it's a binary format. That means there isn't a public schema for FIT, whereas TCX has a formal schema. ANT does provide a PDF of the data format, but it is complex. If ANT provides Swift library in the future, WattDr will consider adding support.
+
 ## Observations
 
 Depending on the type of power meter, you will get different power readings. In general, pedal based power meters "may" register higher watt values than crank arm meters. Hub meters and smart trainers that do not use direct drive will have lower watt readings. To dive deeper into the complex topic of power meters, I recommend reading DC Rainmaker https://www.dcrainmaker.com/
