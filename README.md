@@ -25,6 +25,10 @@ Here's the list of features I like to add in the future. No dates on when they w
 - graph of the power
 - graph of the delta between power meters
 
+## Known Issues
+
+Sometimes Wahoo speed sensors sends odd values, which produces inaccurate speed readings. The peripheral manager tries to handle this by filtering out readings that are higher than 40 meters/second. 40 meters/second translates to 90mph. For most cases, 90mph is crazy fast. The primary focus of the app is power meters, so speed isn't super critical.
+
 ## Observations
 
 Depending on the type of power meter, you will get different power readings. In general, pedal based power meters "may" register higher watt values than crank arm meters. Hub meters and smart trainers that do not use direct drive will have lower watt readings. To dive deeper into the complex topic of power meters, I recommend reading DC Rainmaker https://www.dcrainmaker.com/
